@@ -13,5 +13,6 @@
   },
   "extensions": [
     "ms-python.python"
-  ]
+  ],
+  "postCreateCommand": "scripts/post-create-command.sh"
 }
