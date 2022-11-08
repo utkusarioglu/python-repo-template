@@ -1,3 +1,3 @@
 #!/bin/bash
 
-scripts/git-update-status.sh
+.updater/update-status.sh
