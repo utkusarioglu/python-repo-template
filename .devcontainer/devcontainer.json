@@ -8,7 +8,7 @@
   "workspaceFolder": "/utkusarioglu-com/templates/python-repo-template",
   "settings": {
     "workbench.colorCustomizations": {
-      "activityBar.background": "#004400"
+      "activityBar.background": "#FF0000"
     }
   },
   "extensions": [
