@@ -1,4 +1,4 @@
-#!/opt/bitnami/python/bin/python
+#!/home/python/venv/main/bin/python
 
 def main():
   print("Hey there")
