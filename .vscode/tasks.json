@@ -25,6 +25,9 @@
       "detail": "Run tests",
       "type": "shell",
       "command": "scripts/test-monitor.sh",
+      "args": [
+        "${file}"
+      ],
       "icon": {
         "color": "terminal.ansiYellow",
         "id": "beaker"
